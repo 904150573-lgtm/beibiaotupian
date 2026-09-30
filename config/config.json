@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "template": {
+    "path": "~/Desktop/背标模版.psd",
+    "mapping": "template-map.json",
+    "width": 1080,
+    "height": 1679,
+    "byte_size": 1453937,
+    "required_fonts": [
+      "BlueSkyNoto-Regular",
+      "BlueSkyNoto-Bold"
+    ]
+  },
+  "excel": {
+    "columns": {
+      "key": 1,
+      "value": 3,
+      "unit": 4,
+      "nrv": 6
+    },
+    "ignored_keys": [
+      "产品标签信息",
+      "营养成分表"
+    ],
+    "basis_values": [
+      "每100克",
+      "每100g"
+    ]
+  },
+  "layout": {
+    "label_x": 101,
+    "value_x": 303,
+    "start_y": 121,
+    "row_gap": 23,
+    "value_width": 674,
+    "max_bottom": 885,
+    "rows": [
+      {
+        "field": "产品名称",
+        "label_id": 6,
+        "value_id": 7,
+        "duplicate": false
+      },
+      {
+        "field": "配料",
+        "label_id": 9,
+        "value_id": 8,
+        "duplicate": false
+      },
+      {
+        "field": "产品类别",
+        "label_id": 11,
+        "value_id": 10,
+        "duplicate": false
+      },
+      {
+        "field": "食用方法",
+        "label_id": 13,
+        "value_id": 12,
+        "duplicate": false
+      },
+      {
+        "field": "生产日期",
+        "label_id": 15,
+        "value_id": 14,
+        "duplicate": false
+      },
+      {
+        "field": "保质期",
+        "label_id": 17,
+        "value_id": 16,
+        "duplicate": false
+      },
+      {
+        "field": "贮存方法",
+        "label_id": 19,
+        "value_id": 18,
+        "duplicate": false
+      },
+      {
+        "field": "致敏物提示",
+        "label_id": 21,
+        "value_id": 20,
+        "duplicate": false
+      },
+      {
+        "field": "温馨提示",
+        "label_id": 13,
+        "value_id": 12,
+        "duplicate": true
+      },
+      {
+        "field": "净含量",
+        "label_id": 23,
+        "value_id": 22,
+        "duplicate": false
+      }
+    ],
+    "nutrition": {
+      "names_id": 27,
+      "amounts_id": 28,
+      "nrv_id": 29,
+      "basis_id": 30,
+      "names_box": [
+        250,
+        1129,
+        260,
+        1530
+      ],
+      "amounts_box": [
+        538,
+        1129,
+        250,
+        1530
+      ],
+      "nrv_box": [
+        835,
+        1133,
+        180,
+        1530
+      ],
+      "basis_box": [
+        538,
+        1025,
+        230,
+        1066
+      ]
+    }
+  },
+  "output": {
+    "directory": "~/Desktop",
+    "prefix": "背标输出",
+    "jpeg_quality": 12,
+    "save_psd": true
+  }
+}

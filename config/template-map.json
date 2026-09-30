@@ -1,0 +1,1065 @@
+[
+  {
+    "id": 6,
+    "name": "产品名称",
+    "text": "产品名称",
+    "bbox": [
+      101,
+      121,
+      220,
+      148
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "低Gl燕麦黄油蛋卷",
+    "text": "低Gl燕麦黄油蛋卷",
+    "bbox": [
+      302,
+      121,
+      550,
+      148
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 10,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "鸡蛋（≥30%）、燕麦烘焙专用粉（燕麦90%、谷朊粉 10%）、白砂糖、黄油（≥16%）、植物油、桑叶提取物",
+    "text": "鸡蛋（≥30%）、燕麦烘焙专用粉（燕麦90%、谷朊粉\r10%）、白砂糖、黄油（≥16%）、植物油、桑叶提取物",
+    "bbox": [
+      303,
+      189,
+      976,
+      253
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 23,
+        "tracking": 20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "tracking": 20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": -180,
+        "auto_kerning": false
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "tracking": 20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 27,
+        "end": 45,
+        "tracking": 0,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "tracking": 0,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": -160,
+        "auto_kerning": false
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "tracking": 0,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 49,
+        "end": 50,
+        "tracking": -20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": -160,
+        "auto_kerning": false
+      },
+      {
+        "start": 50,
+        "end": 55,
+        "tracking": -20,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "配料",
+    "text": "配料",
+    "bbox": [
+      101,
+      188,
+      158,
+      215
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "蛋卷",
+    "text": "蛋卷",
+    "bbox": [
+      303,
+      295,
+      361,
+      322
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "产品类别",
+    "text": "产品类别",
+    "bbox": [
+      101,
+      295,
+      218,
+      322
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "开袋即食",
+    "text": "开袋即食",
+    "bbox": [
+      303,
+      363,
+      422,
+      390
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "食用方法",
+    "text": "食用方法",
+    "bbox": [
+      101,
+      363,
+      219,
+      390
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "10个月",
+    "text": "10个月",
+    "bbox": [
+      303,
+      495,
+      391,
+      522
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "保质期",
+    "text": "保质期",
+    "bbox": [
+      100,
+      495,
+      188,
+      522
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "见包装",
+    "text": "见包装",
+    "bbox": [
+      303,
+      429,
+      391,
+      456
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "生产日期",
+    "text": "生产日期",
+    "bbox": [
+      101,
+      429,
+      219,
+      456
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "置于通风干燥处贮存，避免阳光直射及高温",
+    "text": "置于通风干燥处贮存，避免阳光直射及高温",
+    "bbox": [
+      303,
+      561,
+      885,
+      588
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 20,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "储存条件",
+    "text": "储存条件",
+    "bbox": [
+      100,
+      561,
+      219,
+      588
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "本产品含有麸质的谷物及其制品、蛋类及其制品、乳 及乳制品，此生产线也生产含有坚果及其制品、大 豆及其制品、甲壳纲类动物及其制品",
+    "text": "本产品含有麸质的谷物及其制品、蛋类及其制品、乳\r及乳制品，此生产线也生产含有坚果及其制品、大\r豆及其制品、甲壳纲类动物及其制品、花生及其制\r品、芝麻的产品",
+    "bbox": [
+      303,
+      628,
+      977,
+      766
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 11,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 11,
+        "end": 12,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 12,
+        "end": 13,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 13,
+        "end": 14,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 16,
+        "end": 17,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 17,
+        "end": 18,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 18,
+        "end": 19,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 19,
+        "end": 20,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 20,
+        "end": 21,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 21,
+        "end": 22,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 40,
+        "end": 41,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 41,
+        "end": 42,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 42,
+        "end": 43,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 20,
+        "auto_kerning": false
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 46,
+        "end": 66,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 68,
+        "end": 69,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": -20,
+        "auto_kerning": false
+      },
+      {
+        "start": 69,
+        "end": 78,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "致敏物提示",
+    "text": "致敏物提示",
+    "bbox": [
+      101,
+      628,
+      250,
+      655
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "128g",
+    "text": "128g",
+    "bbox": [
+      303,
+      809,
+      367,
+      837
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 5,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "净含量",
+    "text": "净含量",
+    "bbox": [
+      101,
+      805,
+      189,
+      832
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 4,
+        "tracking": 100,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "营养成分表",
+    "text": "营养成分表",
+    "bbox": [
+      466,
+      919,
+      610,
+      946
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "项目",
+    "text": "项目",
+    "bbox": [
+      223,
+      1026,
+      276,
+      1052
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 3,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "能量 蛋白质 脂肪 一饱和脂肪 碳水化合物 一糖 钠",
+    "text": "能量\r蛋白质\r脂肪\r一饱和脂肪\r碳水化合物\r一糖\r钠",
+    "bbox": [
+      177,
+      1129,
+      321,
+      1493
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 27,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "2209千焦 12.7克 29.15 16.1克 53.95 28.7克 159毫克",
+    "text": "2209千焦\r12.7克\r29.15\r16.1克\r53.95\r28.7克\r159毫克",
+    "bbox": [
+      473,
+      1129,
+      602,
+      1493
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 43,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "26% 21% 49% 81% 18%  8%",
+    "text": "26%\r21%\r49%\r81%\r18%\r\r8%",
+    "bbox": [
+      803,
+      1133,
+      866,
+      1491
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 24,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 76.80127,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "每100g",
+    "text": "每100g",
+    "bbox": [
+      490,
+      1025,
+      586,
+      1057
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 6,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "营养素参考值%",
+    "text": "营养素参考值%",
+    "bbox": [
+      735,
+      1025,
+      935,
+      1052
+    ],
+    "style_runs": [
+      {
+        "start": 0,
+        "end": 1,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": false
+      },
+      {
+        "start": 1,
+        "end": 8,
+        "tracking": 40,
+        "font_size": 38.38649,
+        "leading": 50.79863,
+        "kerning": 0,
+        "auto_kerning": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+name: Validate Excel and JSX generation
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - run: node tests/test_type_ranges.js
+      - run: python examples/make_example.py
+      - run: python scripts/build_job.py examples/products.xlsx dist/example.jsx
+      - run: tail -n +2 dist/example.jsx > dist/check.js && node --check dist/check.js
